@@ -1,6 +1,6 @@
 {
   "name": "ember-table",
-  "version": "2.2.3",
+  "version": "1.0.0",
   "description": "An addon to support large data set and a number of features around table.",
   "keywords": [
     "ember-addon"
@@ -39,7 +39,6 @@
     "ember-compatibility-helpers": "^1.2.0",
     "ember-getowner-polyfill": "^2.2.0",
     "ember-raf-scheduler": "^0.1.0",
-    "ember-test-selectors": "^2.1.0",
     "ember-useragent": "^0.6.0",
     "hammerjs": "^2.0.8"
   },
