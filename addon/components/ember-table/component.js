@@ -43,6 +43,8 @@ export default Component.extend({
   'data-test-ember-table': true,
 
   didInsertElement() {
+    this._super(...arguments);
+
     let browser = this.get('userAgent.browser');
 
     if (browser.isIE) {
